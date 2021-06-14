@@ -4,7 +4,7 @@ class diff{
 
   public int difference(int a,int b){
   
-     return a-b;
+     return 2a-2b;
 
   }
 
